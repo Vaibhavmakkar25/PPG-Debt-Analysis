@@ -14,7 +14,7 @@ Data is gathered from World Bank website and considered as primary data.
 
 ## Guidelines to use the script:
 
-1) Check the code of Debtor Country by using this [script](https://github.com/indtheblacktiger/International-Debt-Statistics/blob/main/Python%20Scripts/Debtor%20Country%20Code%20Script.py) or directly download excel file containing 'Debtor Country Code' [here](https://github.com/indtheblacktiger/International-Debt-Statistics/raw/main/Country%20Code%20Data/Debtor%20Country%20Code.xlsx)
+1) Check the code of Debtor Country by using this [script](https://github.com/Vaibhavmakkar25/PPG-Debt-Analysis/blob/main/Python%20scripts/Debtor%20Country%20Code%20Script.py) or directly download excel file containing 'Debtor Country Code' [here](https://github.com/indtheblacktiger/International-Debt-Statistics/raw/main/Country%20Code%20Data/Debtor%20Country%20Code.xlsx)
 2) Check the code of Creditor Country by using this [script](https://github.com/indtheblacktiger/International-Debt-Statistics/blob/main/Python%20Scripts/Creditor%20Country%20Code%20Script.py) or directly download excel file containing 'Creditor Country Code' [here](https://github.com/indtheblacktiger/International-Debt-Statistics/raw/main/Country%20Code%20Data/Creditor%20Country%20Code.xlsx)
 3) Use the [PPG Bilateral Debt Script](https://github.com/indtheblacktiger/International-Debt-Statistics/blob/main/Python%20Scripts/PPG%20Bilateral%20Debt%20Script.ipynb) to save the required data in an Excel file.
 
